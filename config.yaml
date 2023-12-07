@@ -1,4 +1,4 @@
-# The ID of the project in which the resource will be created
+# The ID of the project in which the resource will be created2
 project: "daytona-test"
 
 # Name of the GKE cluster
